@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-button-dropdown/components/button-dropdown/component';
